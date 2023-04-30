@@ -1,0 +1,19 @@
+Finance Tracking App - Expenses and Gains
+
+-Create a simple GUI - from tkinter to Kivy
+-Allow an unlimited number of bank accounts
+-Different categories that allow you to be more precise (+ optional description)
+-Allow adding, removing, editing, viewing, sorting, searching, filtering, exporting, importing, printing, etc.
+-Graphs and data visualization - filter by date, category, etc.
+-Allow setting a budget for each category
+-Allow tracking debts and loans
+-Allow setting financial goals
+-Allow setting reminders
+-Allow setting recurring transactions
+-Allow setting an optional password and account security measures
+-Allow setting a currency
+-Allow setting a language
+-Cryptocurrency tracking | Divide it into FIAT and CRYPTO
+-Multiple users -> database to keep track of each one
+-Linked instances (mobile to desktop app, etc.)
+-Link to a bank account -> automatic transactions"
